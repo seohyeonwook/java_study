@@ -1,3 +1,5 @@
+package Ex02;
+
 public class Ex0207 {
     public static void main(String[] args) {
         String name = "ja"+"va";

@@ -1,3 +1,5 @@
+package Ex02;
+
 public class Ex0201 {
     public static void main(String[] args) {
         System.out.println("Hello, world"); // 줄바꿈

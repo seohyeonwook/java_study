@@ -1,3 +1,5 @@
+package Ex04;
+
 public class Ex0406 {
     public static void main(String[] args) {
 

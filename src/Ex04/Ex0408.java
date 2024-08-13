@@ -1,3 +1,5 @@
+package Ex04;
+
 public class Ex0408 {
     public static void main(String[] args) {
         int sum = 0; // 합계 저장하기위한 변수 선언

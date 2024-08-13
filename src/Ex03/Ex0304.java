@@ -1,3 +1,5 @@
+package Ex03;
+
 public class Ex0304 {
     public static void main(String[] args) {
         int i = -10;

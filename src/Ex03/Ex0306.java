@@ -1,3 +1,5 @@
+package Ex03;
+
 public class Ex0306 {
     public static void main(String[] args) {
         byte a = 10;

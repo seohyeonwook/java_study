@@ -1,3 +1,5 @@
+package Ex03;
+
 public class Ex0302 {
     public static void main(String[] args) {
         int i = 5;
