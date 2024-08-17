@@ -3,11 +3,9 @@ package Ex06;
 public class Ex0607Tv {
         public static void main(String[] args) {
 
-
             int hour = 12;
             int minute = 34;
             int second = 56;
-
 
         }
 }
