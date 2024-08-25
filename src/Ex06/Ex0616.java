@@ -1,7 +1,8 @@
 package Ex06; //참조형 반환타입
 
 class Data3 {
-    int x; } //iv(인스턴스변수)
+    int x;
+} //iv(인스턴스변수)
 public class Ex0616 {
     public static void main(String[] args) {
         Data3 d = new Data3();

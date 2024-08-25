@@ -1,4 +1,4 @@
-package ch03;
+package ch.ch03;
 
 public class Function01 { // 함수쓰는 목적 1. 자주 재사용 하는것
                           // 2. 코드가 너무 길어져서 기능적으로 분리시기코 싶을때

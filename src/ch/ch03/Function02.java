@@ -1,4 +1,4 @@
-package ch03;
+package ch.ch03;
 
 public class Function02 { // 함수 = 호출을 하면
 
@@ -29,7 +29,6 @@ public class Function02 { // 함수 = 호출을 하면
     public static int fx03() { // 매개변수 x , 리턴 o
         System.out.println("fx03 함수 실행");
         return 100;
-
     }
 
     public static String fx04(String name, int age) {

@@ -2,7 +2,7 @@ package Ex05;
 
 public class Ex0502 {
     public static void main(String[] args) {
-        // 배열의 길이 - 매열이름.length
+        // 배열의 길이 - 배열이름.length
         int[] arr = new int[5]; //길이가 5인 int배열
         int tmp = arr.length; // 값은 5이고 tmp에 5가저장된다
         // 배열은 한번 생성하면 그 길이를 바꿀수 없다

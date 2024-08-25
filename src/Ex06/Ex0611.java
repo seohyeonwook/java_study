@@ -8,7 +8,7 @@ public class Ex0611 {
         long result3 = mm.multiply(5L, 3L);
         double result4 = mm.divide(5L, 3L);
 
-        System.out.println("add(5L, 3L) = " + result1);
+
         System.out.println("subtract(5L, 3L) = " + result2);
         System.out.println("multiply(5L, 3L) = " + result3);
         System.out.println("divide(5L, 3L) = " + result4);

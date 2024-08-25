@@ -9,7 +9,7 @@ public class Ex0612 {
 
     }
 
-    public static int max(int a, int b) { // 만약 이렇게 호출하면 안된다
+    static int max(int a, int b) { // 만약 이렇게 호출하면 안된다
         if( a > b ) {
             return a;
         } else {
@@ -35,7 +35,7 @@ public class Ex0612 {
 //            return (a > b) ? a : b;
 //        }
 //    }
-// @@@@ static을 사용하지 않는 경우
+// @@@@ static을 사용하지 않는 경우- 스태틱 사용 안하려면 인스턴스 생성해야한다
 //
 //    public class MainClass {
 //        public static void main(String[] args) {

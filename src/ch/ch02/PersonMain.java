@@ -1,4 +1,4 @@
-package ch02;
+package ch.ch02;
 
 public class PersonMain {
     public static void main(String[] args) {

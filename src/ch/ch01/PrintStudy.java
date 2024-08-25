@@ -1,4 +1,4 @@
-package ch01;
+package ch.ch01;
 
 public class PrintStudy { // 첫글자가 대문자면 파스칼 표기법 첫글자가 소문자면 카멜 표기법
     public static void main(String[] args) {

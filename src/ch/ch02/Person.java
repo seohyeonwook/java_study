@@ -1,4 +1,4 @@
-package ch02;
+package ch.ch02;
 
 public class Person {
     String name;

@@ -3,9 +3,9 @@ package Ex06;
 public class Ex0603 {
     public static void main(String[] args) {
         // 1. 객체의 생성
-        // Tv t; - 참조변수
+        // Tv t; - 참조변수 (참조형)
         // t = new Tv();
-        // new Tv(); - 객체의 생성 부분
+        // new Tv(); - 객체의 생성 부분 (생성자)
 
         // Tv t = new Tv(); 리모콘(참조변수)을 만들어주고 객체를 만들어준다음에 리모콘과 객체를 연결해준다
         // 자바에서는 객체를 다룰때 참조변수가 없으면 안된다
