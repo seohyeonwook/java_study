@@ -6,7 +6,7 @@ package sp.ch_4;
 // 3. 손님은 아메리카노를 테이크 아웃 으로 주문한다.
 // 4. 손님은 아메리카노 커피 를 마신다.
 // 5. 손님은 자신의 기분이 좋아진다
-public class Customer {
+public class Customer { // 일반 클래스
 
     // iv
     private long cashAmount;
