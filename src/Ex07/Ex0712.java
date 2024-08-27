@@ -14,7 +14,7 @@ class Buyer {	// 고객, 물건을 사는 사람
 
         money -= p.price;            // 가진 돈에서 구입한 제품의 가격을 뺀다.
         bonusPoint += p.bonusPoint;  // 제품의 보너스 점수를 추가한다.
-        System.out.println(p + "을/를 구입하셨습니다.");
+        System.out.println(p.toString() + "을/를 구입하셨습니다.");
     }
 }
 public class Ex0712 {
@@ -26,8 +26,8 @@ public class Ex0712 {
 
 //        b.buy(new Computer());
 
-        Product p = new Computer();
-        b.buy(p);
+//        Product p = new Computer();
+//        b.buy(p);
 
         Computer computer = new Computer();
         b.buy(computer);
@@ -53,6 +53,7 @@ class Tv1 extends Product {
         super(100);		// 조상의 생성자 에 매개변수 넣어서 호출
                                 // super 타보면 Product생성자 나옴
                                 // 생성자에 100을 넣는거다
+        System.out.println("Tv호출");
     }
 
     // Object클래스의 toString()을 오버라이딩한다.
