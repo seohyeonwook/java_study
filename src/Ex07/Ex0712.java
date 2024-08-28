@@ -14,7 +14,7 @@ class Buyer {	// 고객, 물건을 사는 사람
 
         money -= p.price;            // 가진 돈에서 구입한 제품의 가격을 뺀다.
         bonusPoint += p.bonusPoint;  // 제품의 보너스 점수를 추가한다.
-        System.out.println(p.toString() + "을/를 구입하셨습니다.");
+        System.out.println(p + "을/를 구입하셨습니다.");
     }
 }
 public class Ex0712 {
